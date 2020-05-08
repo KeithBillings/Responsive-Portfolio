@@ -1,0 +1,31 @@
+/* Centering Everything */
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+/* Header */
+.masthead {
+  padding: 5em 0;
+  background-image: url('./assets/DSC_1497.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 70%;
+  border-radius: 0px;
+}
+.masthead-intro {
+    margin: auto;
+    font-size: 2em;
+}
+
+.masthead-heading {
+    margin: 0em 1em 0em 1em;
+    border-radius: 8px;
+    /* background-color: rgba(43, 42, 42, 0.301); */
+    font-weight: 999;
+    font-size: 6em;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: rgb(230, 172, 125);
+    font-family: 'Bad Script', cursive;
+}
