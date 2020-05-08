@@ -22,7 +22,6 @@
 .masthead-heading {
     margin: 0em 1em 0em 1em;
     border-radius: 8px;
-    /* background-color: rgba(43, 42, 42, 0.301); */
     font-weight: 999;
     font-size: 6em;
     letter-spacing: 0.02em;
@@ -32,8 +31,22 @@
 }
 
 /* Main Content */
-h1{
+.container h1{
   font-family: 'Jost', sans-serif;
+}
+.contentTitle{
+  border-bottom: 2px solid gray;
+}
+.mainContent{
+  padding: 2em 0em 2em 0em;
+}
+.container h3{
+  font-family: 'Jost', sans-serif;
+}
+
+/* Forms */
+.formTextInput{
+  width: 100%;
 }
 
 /* Footer */

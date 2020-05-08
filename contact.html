@@ -5,9 +5,10 @@
   <meta charset="UTF-8">
   <title>Contact</title>
 
-  <!-- Bootstrap CSS -->
-
+  <!-- CSS -->
   <link rel="stylesheet" href="style.css">
+
+  <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
@@ -49,17 +50,57 @@
   <header class='masthead'>
     <p class='masthead-intro'></p>
     <h1 class='masthead-heading'>
-      Contact
+      Keith Billings
     </h1>
   </header>
     
   <!-- Main Content -->
   <div class="container">
-    <div class="row">
-      <div class="col-sm-9">
-        <h1>
+    <div class="row mainContent">
+      <div class="col-sm-5">
+        <h1 class="row contentTitle">
           Contact
         </h1>
+        <p class="row">
+          You can email me at:
+          <br>
+          heyitbo91@gmail.com
+        </p>
+        <p class="row">
+          You can call me at:
+          <br>
+          (503) 709-9897
+        </p>
+        <p class="row">
+          Or you can fill out the form to the right for any questions or comments!
+        </p>
+      </div>
+      <div>
+        <div class="col-sm-1"> <!-- Spacer between content, I chose this way instead of padding or margins for simple screen width scaling -->
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <form> <!-- This form doesnt send data anywhere -->
+          <h3 class="row">
+            Name:
+          </h3>
+          <p class="row">
+            <input type="text" class="formTextInput" id="contactName"/>
+          </p>
+          <h3 class="row">
+            Email:
+          </h3>
+          <p class="row">
+            <input type="text" class="formTextInput" id="contactEmail">
+          </p>
+          <h3 class="row">
+            Message:
+          </h3>
+          <p class="row">
+            <textarea class="formTextInput" id="contactMessage" rows="7"></textarea>
+          </p>
+          <input type="submit" class="row">
+        </form>
       </div>
     </div>
   </div>
