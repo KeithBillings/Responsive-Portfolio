@@ -1,5 +1,6 @@
 /* Centering Everything */
 .masthead-heading,
+.footer,
 .masthead-intro {
   text-align: center;
 }
@@ -28,4 +29,20 @@
     text-transform: uppercase;
     color: rgb(230, 172, 125);
     font-family: 'Bad Script', cursive;
+}
+
+/* Footer */
+#footer {
+  padding: 20px 0;
+  text-align: center;
+  background-color: #343a40;
+  text-decoration: none;
+}
+
+#footer a {
+  color: #e49774;
+}
+.social > li {
+  display: inline-block;
+  margin: 0 5px;
 }
