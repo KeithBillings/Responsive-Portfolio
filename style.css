@@ -53,11 +53,6 @@ body{
   width: 100%;
 }
 
-/* Cards */
-.card-img-top > img:active{
-  
-}
-
 /* Footer */
 #footer {
   padding: 20px 0;
