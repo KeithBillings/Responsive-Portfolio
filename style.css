@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+/* Nav Bar */
+.navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
 /* Header */
 .masthead {
   padding: 5em 0;
