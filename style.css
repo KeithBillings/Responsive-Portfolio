@@ -39,6 +39,7 @@ body{
 }
 .contentTitle{
   border-bottom: 2px solid gray;
+  margin-top: 0.5rem;
 }
 .mainContent{
   padding: 2em 0em 2em 0em;
