@@ -8,4 +8,9 @@ Steps I took
 	Updated each webpage's titles
 	Added a footer to index.html and styled it
 	Copied footer and applied it to other webpages
-
+	Update fonts using Google fonts
+	Build contact page
+		first left side of page, text entry
+		then right side of page, input fields
+	Format CSS links better
+	
