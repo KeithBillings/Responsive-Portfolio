@@ -15,12 +15,13 @@
 
 /* Header */
 .masthead {
-  padding: 5em 0;
+  padding: 8em 0 5em 0;
   background-image: url('./assets/DSC_1497.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 70%;
   border-radius: 0px;
+  text-shadow: -1px 1px #343a40;
 }
 .masthead-intro {
     margin: auto;
@@ -73,5 +74,9 @@ body{
 }
 .social > li {
   display: inline-block;
-  margin: 0 5px;
+  margin: 0 5px 0 0;
+}
+
+.social{
+  padding: 0 1em 0 0;
 }
