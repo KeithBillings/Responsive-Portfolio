@@ -24,3 +24,5 @@ Steps I took
 	Update cards with pictures
 	Update cards with captions
 	Debug
+	Convert Nav Bar to fixed for styling purposes
+	Debug
