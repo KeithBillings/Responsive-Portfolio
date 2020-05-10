@@ -1,6 +1,10 @@
 # Responsive-Portfolio
 
-Steps I took 
+## Getting Started
+
+In this project I have three webpages: Home/About Me, Portfolio, Contact. Every page has a matching nav bar and footer with links. The nav bar has links to the other pages, and the footer has links to my github and my social. Every page has a matching header which has an image and my name as the title. The About Me page shows a small section of text that tells the reader a bit about me, and has an image to go with it. The portfolio page shows images that I took in two categories: flowers and cityscapes. Each section has headers that title the section. The contact page has text fields that the users can input. Every page has a matching background. 
+
+## Steps I took
 
 	Inital commit of html files to have placeholders
 	Added Navbar to index.html and styled it
