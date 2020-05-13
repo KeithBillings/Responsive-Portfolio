@@ -33,12 +33,12 @@ In this project I have three webpages: Home/About Me, Portfolio, Contact. Every 
 
 ## Deployment
 
-	https://keithbillings.github.io/Responsive-Portfolio/
+* https://keithbillings.github.io/Responsive-Portfolio/
 	
 ## Built With
 
-	Bootstrap
+* Bootstrap
 	
 ## Author
 
-	Keith Billings
+* Keith Billings
